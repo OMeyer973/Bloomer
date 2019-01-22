@@ -7,7 +7,7 @@ Small app to add layers of bloom effect to an image.
 
 ## How to use ?
 
-select a file, change the UI sliders, save the dithered image.
+select a file, change the UI sliders, save the bloomed image.
 
 ## How it is made ?
 
