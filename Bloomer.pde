@@ -1,7 +1,6 @@
-// small app to blur an image by exchanging pixels 2 by 2
+// small app to add bloom layers to an image
 
 import controlP5.*;
-import com.hamoid.*;
 
 int bloomRadius = 5;
 float bloomIntensity = 0.5;
