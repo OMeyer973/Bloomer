@@ -11,7 +11,7 @@ select a file, change the UI sliders, save the bloomed image.
 
 ## How it is made ?
 
-The image is copied, then threshold + blur filters are applied on the copy.
+The image is copied, then threshold + blur, brightness and saturation filters are applied on the copy.
 The copy is then sumed with the original image.
 
 ----------------
