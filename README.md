@@ -2,8 +2,8 @@
 
 Small app to add layers of bloom effect to an image.
 
-<img src="initial.png" width="50%"><img src="result.png" width="50%">
-
+<img src="https://i.imgur.com/s73RQW6.jpg" width="50%"><img src="https://i.imgur.com/vrr2Z57.png" width="50%">
+<img src="https://i.imgur.com/iA7tnEg.jpg" width="50%"><img src="https://i.imgur.com/JQTaX6x.png" width="50%">
 
 ## How to use ?
 
